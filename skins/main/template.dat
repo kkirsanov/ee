@@ -1,0 +1,1710 @@
+a:15:{s:4:"text";a:1:{s:4:"main";s:6:"%text%";}s:4:"path";a:3:{s:5:"outer";s:49:"<p><a href="./"><b>Главная </b></a> %main%";s:6:"common";s:49:" > <a href="%link%/index.html"><b>%text%</b></a> ";s:6:"active";s:48:" > <a href="%link%/index.html"><b>%text%</b></a>";}s:8:"navigate";a:2:{s:5:"outer";a:2:{s:4:"main";s:25:"<ul class="ul">%main%<ul>";s:3:"sub";s:25:"<ul class="ul">%main%<ul>";}s:7:"element";a:3:{s:4:"main";s:52:"<li class="li1"><a href="%link%.html">%text%</a><li>";s:3:"sub";s:61:"<li class="li1"><a href="%link%.html" class="menu">%text%</a>";s:6:"active";s:68:"<li class="li1"><b><a href="%link%.html" class="menu">%text%</a></b>";}}s:4:"main";a:4:{s:4:"skin";s:2454:"<body>
+
+<table border=0 cellpadding=0 cellspacing=0 height=100% width=985 align=\"center\">
+<tr>
+
+<td valign=\"top\" width=\"985\">
+<table width=\"985\" border=\"0\" >
+  <tr>
+    <td><table width=\"985\" border=\"0\" align=\"left\" cellpadding=\"0\" cellspacing=\"0\">
+    <td width=\"250\"><a href=\"http://www.rxshop.ru/\"><img src=\"images/logo.jpg\" width=\"250\" height=\"94\" border=\"0\"></a></td>
+    <td width=\"84\" ><a href=\"http://www.rxshop.ru/\"><img src=\"images/main.jpg\" width=\"84\" height=\"94\" border=\"0\"></a></td>
+    <td width=\"72\"><a href=\"http://www.rxshop.ru/11\"><img src=\"images/buy.jpg\" width=\"72\" height=\"94\" border=\"0\"v></a></td>
+    <td width=\"66\"><a href=\"http://www.rxshop.ru/12\"><img src=\"images/price.jpg\" width=\"66\" height=\"94\" border=\"0\"></a></td>
+    <td width=\"84\"><a href=\"http://www.rxshop.ru/13\"><img src=\"images/deliver.jpg\" width=\"84\" height=\"94\" border=\"0\"></a></td>
+    <td width=\"64\"><a href=\"http://www.rxshop.ru/14\"><img src=\"images/info.jpg\" width=\"64\" height=\"94\" border=\"0\"></a></td>
+    <td width=\"89\"><a href=\"http://www.rxshop.ru/15\"><img src=\"images/contacts.jpg\"  height=\"94\" border=\"0\"></a></td>
+    <td background=\"images/bg_top1.jpg\" height=\"94\" width=\"276\">
+   %BLOCK2%</td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr >
+
+    <td height=\"151\">
+    <table width=\"100%\" border=\"0\" height=\"151\" cellpadding=\"0\" cellspacing=\"0\" style=\"margin-top:7px\" >
+  <tr>
+    <td align=\"left\"><img src=\"images/top img.jpg\" width=\"782\" height=\"150\"></td>
+    <td align=\"right\"><img src=\"images/phone_hel.jpg\" width=\"195\" height=\"150\"></td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+    <table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"margin:8px\" bgcolor=\"f8f8f8\" >
+    <tr>
+    <td style=\"margin:10px\">
+    %BLOCK1%
+    </td>
+
+    </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
+  <tr>
+    <td align=\"left\" style=\"margin-left:10px\"><img src=\"images/logos.jpg\" width=\"192\" height=\"43\"></td>
+
+    <td align=\"right\"><a href=\"http://www.wm2affiliate.ru\"><img src=\"images/partner.jpg\" width=\"195\" height=\"56\" border=\"0\"></a></td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+
+
+</body>";s:5:"count";s:1:"2";s:9:"locations";a:5:{i:1;s:10:"центр";i:2;s:14:"корзина";i:3;s:12:"правый";i:4;s:21:"верх баннер";i:5;s:14:"корзина";}s:4:"meta";s:0:"";}s:7:"gallery";a:5:{s:6:"window";s:403:"<html>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<head>
+<title>%title%</title>
+</head>
+<body leftmargin=0 marginheight=0 rightmargin=0 bottommargin=0 topmargin=0 marginwidth=0>
+<div align="center">
+<img src="%image%" hspace="15" alt="%title%">
+<h2 style="color:#6D82b9;">%title%</h2>
+<a href="#" onClick=window.close()>Закрыть окно</a></div>
+</body></html>";s:5:"pages";s:0:"";s:3:"big";a:2:{s:4:"main";s:30:"<h1>%title%</h1>
+%main%<br>
+";s:7:"element";s:76:"%title% <br><img src="%image%"><br>
+<a href="%src%">увеличить</a> ";}s:5:"small";a:2:{s:4:"main";s:30:"<h1>%title%</h1>
+%main%<br>
+";s:7:"element";s:76:"%title% <br><img src="%image%"><br>
+<a href="%src%">увеличить</a> ";}s:3:"raw";a:2:{s:3:"big";s:8:"%main%
+";s:5:"small";s:35:"<tr>%main%</tr>
+<tr><td></td></tr>";}}s:5:"asdsa";s:0:"";s:4:"news";a:7:{s:4:"main";s:6:"%main%";s:5:"small";s:748:"<table border="0" width="100%" cellspacing="1" cellpadding="3">
+<tr>
+<td width="100%">
+<div align="justify"><font><b>%TITLE%</b></font>
+</div>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<font>%HEADER%</font></td>
+</tr>
+<tr>
+<td width="100%">
+<table border="0" style="border-top: 1px dotted #f2f3f3" width="100%" cellspacing="0">
+<tr>
+<td width="220"><i><font style="font-family:georgia, verdana, arial, sans-serif; font-size:11;	color:black;">%DATE%</font></i><br> </td><td><div align=right>
+<font style="font-family:georgia, verdana, arial, sans-serif; font-size:11;"><a href="%LINK%/index.html">Читать полностью и комментировать</a></font><br> 
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+";s:3:"big";s:929:"<p><b>%DATE%: %TITLE%</b>
+<br><i>%HEADER%</i>
+<p> %CONTENT%
+<table border="0" style="border-top: 1px dotted #f2f3f3" width="100 %" cellspacing="0">
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<p><b>Добавить свой комментарий к новости</b><br>
+<form action = "%action%" method=post>
+Ник: <input name="COMMENT_NAME" type=text><br>
+<br>Сообщение:<br>
+<tarea name="COMMENT_TEXT" style="width:100%; height: 200px"></tarea>
+<br>
+<select name=nobot>
+<option value=0>Я - спамбот. Не надо добавлять мое сообщение</option>
+<option value=1>Я - человек. Добавьте мое сообщение</option>
+</select>
+
+
+<input  type=submit value="Отправить">
+</form>
+<table border="0" style="border-top: 1px dotted #f2f3f3" width="100 %" cellspacing="0">
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<p><b>Комментарии</b>
+<p>%COMMENT% ";s:4:"date";s:5:"Y-m-d";s:7:"comment";s:52:"<i>%NAME%</i> написал: <br>
+%TEXT% <br> <br>";s:8:"navigate";a:2:{s:4:"main";s:0:"";s:7:"element";s:0:"";}s:7:"archive";a:5:{s:4:"main";s:0:"";s:8:"template";s:0:"";s:4:"date";s:0:"";s:5:"topic";s:0:"";s:5:"pages";a:2:{s:5:"acive";s:0:"";s:8:"inactive";s:0:"";}}}s:4:"mail";a:2:{s:8:"template";s:983:"	<p style="font-size:9pt"> <label for="smf-email"><b>E-mail:  </b></label> 
+	
+	<INPUT TYPE="text" NAME="email" id="smf-email" style="border: 1px solid #DDDDDD" 
+	x:required="true()" x:required-error="You should fill in your email address" 
+	x:validator="x:email" x:validator-error="Email address should contain a valid email address">
+	<BR><BR>
+		  <p style="font-size:9pt"> <label for="smf-subject"><b>Тема:  </b></label>
+<INPUT TYPE="text" NAME="subject" id="smf-subject" style="border: 1px solid #DDDDDD" value="" 
+	x:required="true()" x:required-error="Subject field is required">
+	<BR><BR>
+
+		  <p style="font-size:9pt"> <label for="smf-message"><b>Тело сообщения:  </b></label><BR>
+<tarea name="TEXT"  ROWS="20" COLS="40" style="border: 1px solid #DDDDDD; width:400; height:180" >Введите сюда Ваше сообщение</tarea><br><br>
+	<BR><BR>
+		  <p style="font-size:9pt"> <input type=submit value="Отправить"><BR><BR>
+
+";s:4:"addr";s:15:"admin@rxshop.ru";}s:4:"vote";a:2:{s:7:"element";s:84:"<li>
+<a href="%link%">%text%</a>
+(%value%) <div style="width:%100%%"></div>
+</li>";s:4:"main";s:66:"<noindex><h2>%title%</h2>
+<ul>
+%main%
+</ul>
+<br><br></noindex>";}s:3:"map";a:3:{s:4:"main";s:6:"%main%";s:3:"sub";s:15:"<ul>%main%</ul>";s:7:"element";s:15:"<ul>%main%</ul>";}s:4:"shop";a:33:{s:4:"path";a:3:{s:5:"outer";s:109:"<a href="./" title="Магазин документального кино">Магазин</a>%main%<br><br> ";s:6:"common";s:53:" › <a href="%link%.html" title="%text%">%text%</a> ";s:6:"active";s:59:" › <a href="%link%.html" title="%text%"><b>%text%</b></a>";}s:6:"search";a:1:{s:5:"input";s:3:"das";}s:7:"element";s:662:"<tr><td >
+<a href="%viewaddr%.html" title=" %firm% %title%" style="">
+<h3 style="color:#BA0804">%title%, %firm%</h3></a>
+</td><td>
+</td>
+</tr>
+<tr>
+<td>
+
+
+<b>Раздел:
+<a href="%parentAddr%" title="%parent%"> %parent%</a></b>
+<br>%header%<br>
+</td>
+<td width="130" bgcolor="#EFEFEF" align="center" valign="middle" >
+
+<b>Цена: </b><font color="red">%price2%</font> руб.  <br>
+<noindex><a href="%cartaddr%.html">В корзину <b>%firm% 
+
+%title%</b></a></noindex>
+</td>
+</tr>
+<tr><td colspan=3>
+<a href="%viewaddr%.html" title="firm% %title%">Подробнее о  
+
+<b>%title%</b> </a>
+<hr size="1" noshade>
+</td>
+</tr>";s:12:"element_more";s:744:"﻿<tr><td><table width="100%"><tr><td>
+<h1 class=shop>%title%, %firm% </h1>
+<font size="4"><b>Цена: </b>
+<font color="red">%price2%</font> руб.</font> <br>
+
+<a href="http://www.rxshop.ru/shop/firms/%nameUTF%.html"><b>%firm%  </b></a><br>
+
+</td><td align="right">
+ <noindex><a href="%cartaddr%.html">
+<img src="http://www.muzbazar.ru/images/korzinka.gif" border="0" alt="%firm% %title% "><br>
+<div style="font-size:12px; color:red;">Добавить<br> в корзину</div></a></noindex>
+</td></tr></table>
+<br><br>
+<img src="%imageaddr%" alt="%firm% %title%" title="%firm% %title%" border="0" hspace="5"><br>
+
+</td></tr>
+<tr><td>
+<b>%header%</b><br><br>
+
+
+<br>
+</td>
+</tr>
+<tr><td colspan=2>
+
+</td>
+</tr>
+";s:18:"element_more_print";s:263:"<h1>%firm% %title%</h1>
+<b>%parent%</b>
+<h2>Цена: %price2%руб.</h2>
+Режиссер: <b>%firm%</b></a>
+<br>
+<img src="%imageaddr%" alt="%parent% %firm% %title%"  border="0" hspace="5"><br>
+<br>%parent%
+<br> <b>%firm% %title%</b>
+<br> %description%";s:13:"elementskidka";s:985:"<tr><td >
+<a href="%viewaddr%.html" title=" %firm% %title%" style="">
+<h3 style="color:#BA0804">%title%, %firm%</h3></a>
+
+</td><td>
+</td>
+</tr>
+<tr>
+<td>
+<a href="%viewaddr%.html" title="%parent%  %title% режиссер %firm% в магазине документального кино">
+
+<img src="%imageaddr%" alt="%parent% %firm% %title% в 
+
+магазине документального кино" align="left" border="0" hspace="5" title=" %parent% %firm% %title% в магазине документального кино" align="left"></a>
+
+<br>%header%<br>
+</td>
+<td width="130" bgcolor="#EFEFEF" align="center" valign="middle" >
+
+<b>Цена: </b><font color="red">%price2%</font> руб.  <br>
+<noindex><a href="%cartaddr%.html">В корзину <b>%firm% 
+
+%title%</b></a></noindex>
+</td>
+</tr>
+<tr><td colspan=3>
+<a href="%viewaddr%.html" title="firm% %title%">Подробнее о  <b>%title%</b> </a>
+<hr size="1" noshade>
+</td>
+</tr>";s:18:"element_moreskidka";s:1504:"<tr><td><table width="100%"><tr><td>
+<h1 class=shop>%title%, режиссер %firm% </h1>
+<font size="4"><b>Цена: </b>
+<font color="red">%price2%</font> руб.</font> <br>
+
+Режиссер: <a href="http://www.magazindoc.ru/shop/firms/%nameUTF%.html"><b>%firm%  </b></a><br>
+
+</td><td align="right">
+ <noindex><a href="%cartaddr%.html">
+<img src="http://www.muzbazar.ru/images/korzinka.gif" border="0" alt="%firm% %title% "><br>
+<div style="font-size:12px; color:red;">Добавить<br> в корзину</div></a></noindex>
+</td></tr></table>
+<br><br>
+<img src="%imageaddr%" alt="%firm% %title%" title="%firm% %title%" border="0" hspace="5"><br>
+
+</td></tr>
+<tr><td>
+<b>%header%</b><br><br>
+
+<b>Описание фильма %title%</b><br> %description%
+<br>режиссер %firm% 
+<br>
+</td>
+</tr>
+<tr><td colspan=2>
+
+</td>
+</tr>
+<tr>
+<td colspan=2><br>
+<hr size="1" noshade>
+<h3>Комментарии посетителей интернет магазина о фильме %title% : </h3>
+%COMMENT%<br><br>
+<b>Добавить свой комментарий о %firm% %title%: </b><br>
+<form action = "%action%" method=post>
+<br>
+<br>
+<input name="COMMENT_NAME" type=text value="%user%"> - <b>Имя</b><br>
+<br>Сообщение<br>
+<tarea  name="COMMENT_TEXT" style="width:100%; height: 200px; font-family: Verdana" ></tarea>
+<br>
+<input  type=submit value="Отправить">
+</form>
+<br>
+<br><br><br>
+<hr size="1" noshade>
+</td></tr>";s:24:"element_more_printskidka";s:274:"<h1>%firm% %title%</h1>
+<b>%parent%</b>
+<h2>Цена: %price2%руб.</h2>
+Производитель : <b>%firm%</b></a>
+<br>
+<img src="%imageaddr%" alt="%parent% %firm% %title%"  border="0" hspace="5"><br>
+<br>%parent%
+<br> <b>%firm% %title%</b>
+<br> %description%";s:21:"element_more_addgoods";s:0:"";s:28:"element_more_addgoodselement";s:0:"";s:5:"outer";s:334:"<br>
+
+<select name=categories onChange="MM_jumpMenu('parent',this,0)">
+<option value="#%">Выберите :</option>
+%firm%
+</select>  
+
+<table border="0" width="100%" cellpadding="5" cellspacing="0" >
+%main%
+</table>
+
+<br>
+<style type="text/css">
+p {
+	margin-top:0px;
+	margin-bottom:0px;
+	text-indent:0px;}
+</style>";s:2:"fa";s:55:"<option selected>Выбран <h1>%title%</h1></option>";s:6:"fouter";s:0:"";s:7:"inprice";s:0:"";s:8:"offprice";s:0:"";s:2:"np";s:0:"";s:4:"call";s:0:"";s:5:"value";s:1:"1";s:6:"valuee";s:3:"35`";s:6:"valuek";s:1:"1";s:15:"firmcatalogitem";s:128:"<a href="shop/%id%/0/%firm%.html"><b>%name%</b><img src="http://muzbazar.ru/images/b_2.gif" alt="%name%" border="0"></a><br><br>";s:5:"firms";s:143:"<h1>Товары %name% представлены в следующих разделах:</h1>
+<br>
+%catalogs%<br><br>
+%text%<br><br><br>
+
+";s:8:"filmlink";s:2:"21";s:4:"edit";s:149:"<form action="%action%" method=POST enctype="multipart/form-data">
+
+%forms%
+
+</br>
+<input type=file name=file><br>
+<input type=submit>
+</form>";s:8:"firmlink";s:53:"<a href="shop/firms/%nameUTF%">%name%
+</a>  <br>
+
+";s:1:"f";s:66:"<option value="http://www.rxshop.ru%link%.html">%title%</option>
+";s:4:"cart";a:7:{s:7:"element";s:746:"<tr><td>
+<img src="%imageadr%" alt="%firm% %title%" align="left">
+
+<h3>%firm% %title%</h3>
+%header%</td>
+<td width="100" align="center">Цена:<font color="red">%price2%</font>  рублей</td>
+
+<td >
+<p>На данный момент заказано <b>%count%</b> экз. %firm% %title% <!-- <b>%totalcount%</b> у.е., -->
+<b>%totalcount2%</b> руб.
+Вы можете изменить количество :<form method=post action="%setcount%"><input type=text value="%count%" name="count" size="5" > <input type="submit" value="Изменить" ></form>
+ или <form method=post action="%setcount%"><input type=hidden value="0" name="count"> <input type="submit" value="Удалить товар" ></form>
+
+</td>
+</tr>";s:5:"outer";s:468:"Ссылка другу - <input type=text size=60 value = "http://www.muzbazar.ru/cart/set/%cartlink%"><hr>
+
+<form action="/cart/clear"><input type=submit value="Очистить корзину"></form>
+<h1 >Ваша корзина:</h1>
+<table width="100%" border="1" style="border-style:solid">
+%main%
+</table>
+
+<h3>Сумма к оплате:
+<!-- <font color=red>%parsedcount%</font>у.е.<br> -->
+<font color=red>%parsedcount2%</font> руб. </h3>
+
+";s:5:"small";s:297:"<p style="color: rgb(255, 255, 255); font-size: 10px; margin-left: 30px;"><img src="images/cart.gif" height="11" width="13">Общая сумма заказа %parsedcount2% рублей.<br>
+      <a href="cart/view" style="color: rgb(255, 255, 255);">(Купить немедленно)</a></p>";s:6:"commit";s:1598:"<tr><td colspan=3>
+
+<form action="./cart/commit" method=POST name="registration" >
+
+<table width="100%" border=0 cellpadding=5 cellspacing=0>
+
+<tr><td width="30%" id=t_fio><b>Контактное лицо :</b></td><td width="70%"><input type="text" name = "fio" size=30 value="%NAME%"></td></tr>
+<tr><td width="30%" id=t_mail><b>EMAIL</td><td width="70%"><input type=text name = "mail" size=30 value="%MAIL%"></td></tr>
+</table>
+<input type="submit" value="Сделать заказ">
+
+<br><br><br><br><hr>
+
+
+</form>
+<br>
+<a href="http://magazindoc.ru/shop/1.html">Продолжить покупки</a><br>
+<br>
+Если Вы уже заказывали в нашем магазине  - у вас есть уже свой доступ со своей персональной скидкой. пройдите по этой ссылке <a href="http://www.magazindoc.ru/register/restore">вспомнить пароль</a>
+<br><br>
+Если Вы заказываете первый раз, то для Вас будет автоматически создан новый аккаунт и пароль Вам будет выслан по почте. с помощью личного кабинета Вы сможете получать скидки, отслеживать статус заказа и оставлять комментарии.
+
+<br><br>
+Добавление товара в корзину и отправка заказа не накладывает на Вас никаких обязательств по его покупке.
+<br><br>
+</td></tr>";s:4:"mail";s:15:"admin@rxshop.ru";s:2:"ok";s:6:"%main%";s:4:"addr";s:21:"http://www.rxshop.ru/";}s:3:"nak";s:4239:"<P>
+			<B><I><FONT size="4">Реализация (купля-продажа) №%ID% от %DATE%</FONT></I></B></P>
+		<P><FONT face="Times New Roman"><STRONG>Поставщик</STRONG>: ООО Музбазар 	 	 	 	 	
+ 105064 Москва, Сусальный Нижн. пер., д.9 стр.6.</FONT></P>
+		<P><STRONG>Покупатель</STRONG>: частное лицо</P>
+		<P>
+<TABLE id="Table1" style="WIDTH: 599px; border-collapse: collapse;" cellSpacing="0" cellPadding="0" width="599" border="1">
+				<TR>
+					<TD style="WIDTH: 34px">№</TD>
+					<TD style="WIDTH: 328px">Товар</TD>
+					<TD style="WIDTH: 52px">Кол-во</TD>
+					<TD style="WIDTH: 30px">Ед.</TD>
+					<TD>Цена</TD>
+					<TD>Сумма</TD>
+				</TR>
+					<!--%ROW%-->
+</TABLE>
+		</P>
+		<P>Всего наименований : <STRONG>%COUNT%</STRONG> на сумму <STRONG>%SUM%</STRONG> рублей 
+		</P>
+		<P><STRONG></STRONG></P>
+		<table width="72%"  border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td width="48%">Отпустил ____________________</td>
+            <td width="52%">Получил ____________________</td>
+          </tr>
+        </table>
+<P>Адрес доставки - %ADDR%</P>
+		<P> 		  </P>
+		<P>Гарантия: <STRONG>1 год</STRONG></P>
+		<P><STRONG>                                
+				<FONT size="5">Гарантия</FONT></STRONG></P>
+		<div style="WIDTH: 529px"><font size="1">На проданный через интернет-магазин товар 			распространяются все гарантийные условия производителей и поставщиков продукции 			сроки гарантии по каждому товару указаны на нашем сайте. Гарантийное 			обслуживание осуществляется в специализированном для конкретного продукта 			сервисном центре (подробнее вы можете проконсультироваться у наших менеджеров). 			Доставку изделия до сервис-центра и обратно Покупатель осуществляет за свой 			счет. По специальной договоренности возможен выезд к заказчику представителей 			службы доставки или наших специалистов Гарантия на расходные материалы не 			распространяется. Заводской брак обменивается по заключению сервисного центра. <br>
+Возврат товаров без объяснения причин осуществляется течении 7 суток с момента продажи, в соответствии с действующим законодательством РФ.
+</font></div>
+		<P> </P>
+		<div style="WIDTH: 529px">
+			<P><font size="2">Сервисный центр stanton, allen&heath, audio-technica,  j&d, g&l, kme, rocktron: <br><b>Mix-Art</b> Москва, Земляной Вал, 36 тел: (095) 956-90-93 e-mail: support@mixart.ru
+			</font></P>
+			<P><font size="2">Сервисный центр для Behringer, Neumann, Neutrik, Dynaudio, DBX, Gemini, M-AUDIO, Sennheiser, t.c.electronic, TANNOY, Tascam:<br> <STRONG>I.S.P.A.-Engineering</STRONG>
+Россия, Москва 123022, 2-я Звенигородская ул., 13, 784-75-75, info@ispa.ru</font>
+			</P>
+
+<P><font size="2">Сервисный центр для KORG, Marshall, Genelec, Marantz, Lexicon, Symetrix, Dolby, Alesis, Tascam, Fender, Ibanez, Jackson, Squier, Digitech, Ghs, Mesa Boogie, Ovation, Seymour Duncan, Takamine, Digidesign, Focusrite, Universal Audio, Manley, TL Audio, DCS, Waves, Antares, Tama, Quik Lok, Zildjian, Remo, Gator, Horizon, MPM, Switchcraft, Mackie, Martin Audio, Crown, EAW, Sound Advance, AMIS:<br> <STRONG>A&T TRADE </STRONG>   Москва, Нагатинская наб., 40/1
+   Тел.: 117-44-00, 117-00-55
+   Факс: 117-64-60
+   E-mail: msc@attrade.ru</font>
+			</P>
+
+		</div>";s:4:"nak2";s:4297:"<STYLE type=text/css>.border {
+	MARGIN-BOTTOM: -0.2em; PADDING-BOTTOM: 0px; BORDER-BOTTOM: black 1px solid
+}
+</STYLE>
+
+<DIV align=center>
+<TABLE 
+style="BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; BORDER-LEFT: black 1px solid; ; WIDTH: expression(document.body.clientWidth < 750 ? '750px' : '100%' ); BORDER-BOTTOM: black 1px solid; max-width: 750px" 
+cellSpacing=5 cellPadding=0 border=0>
+  <TBODY>
+  <TR>
+    <TD style="BORDER-RIGHT: black 1px solid; FONT-SIZE: 11pt" vAlign=top  width=170>
+      <DIV>Извещение</DIV>
+      <DIV style="MARGIN-TOP: 10em">Кассир</DIV></TD>
+    <TD style="FONT-SIZE: 10pt" width=580>
+      <DIV style="FONT-SIZE: 6pt; FLOAT: right">Форма №ПД-4</DIV>
+      <DIV class=border><I>ООО "Музбазар" ИНН/КПП 7705799280/770501001</I></DIV>
+      <DIV style="FONT-SIZE: 8pt; PADDING-TOP: 0px" align=center>получатель платежа</DIV>
+      <DIV style="FLOAT: left; MARGIN-RIGHT: 20pt">
+      <DIV class=border><I>ОАО "УРАЛСИБ" г. Москва</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>наименование банка</DIV></DIV>
+      <DIV style="FLOAT: right">
+      <DIV class=border><I>40702810300520000798</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>расчетный счет</DIV></DIV><BR clear=all>
+      <DIV class=border style="FONT-SIZE: 8pt"><I>К/с 30101810100000000787 в  ОАО "УРАЛСИБ" г. Москва БИК  044525787</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>другие банковские реквизиты</DIV>
+      <DIV class=border><I>%NAME%</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>Фамилия И.О. плательщика</DIV>
+      <DIV class=border><I>Оплата счета № %ID% от %DATE% за оборудование.</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>наименование платежа</DIV>
+      <DIV class=border style="FLOAT: right; MARGIN-LEFT: 40pt"><I>%DATE%</I></DIV>
+      <DIV><SPAN style="FONT-SIZE: 8pt">Сумма платежа </SPAN><SPAN class=border><I>%SUM% рублей</I></SPAN> </DIV>
+      <BR>
+      <DIV style="FONT-SIZE: 8pt">Подпись<BR>плательщика</DIV></TD></TR>
+  <TR>
+    <TD colSpan=2>
+      <HR style="COLOR: black" SIZE=1>
+    </TD></TR>
+  <TR>
+    <TD style="BORDER-RIGHT: black 1px solid; FONT-SIZE: 11pt" vAlign=top 
+    width=170>
+      <DIV>Квитанция</DIV>
+      <DIV style="MARGIN-TOP: 10em">Кассир</DIV></TD>
+    <TD style="FONT-SIZE: 10pt" width=580>
+      <DIV style="FONT-SIZE: 6pt; FLOAT: right">Форма №ПД-4</DIV>
+	  <DIV class=border><I>ООО "Музбазар" ИНН/КПП 7705799280/770501001</I></DIV>      
+      <DIV style="FONT-SIZE: 8pt; PADDING-TOP: 0px" align=center>получатель платежа</DIV>
+      <DIV style="FLOAT: left; MARGIN-RIGHT: 20pt">
+      <DIV class=border><I>ОАО "УРАЛСИБ" г. Москва</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>наименование банка</DIV></DIV>
+      <DIV style="FLOAT: right">
+      <DIV class=border><I>40702810300520000798</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>расчетный счет</DIV></DIV><BR clear=all>
+      <DIV class=border style="FONT-SIZE: 8pt"><I>К/с 30101810100000000787 в  ОАО "УРАЛСИБ" г. Москва БИК  044525787</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>другие банковские реквизиты</DIV>
+      <DIV class=border><I>%NAME%</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>Фамилия И.О. плательщика</DIV>
+      <DIV class=border><I>Оплата счета № %ID% от %DATE% за оборудование</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>наименование платежа</DIV>
+      <DIV class=border style="FLOAT: right; MARGIN-LEFT: 40pt"><I>%DATE%</I></DIV>
+      <DIV><SPAN style="FONT-SIZE: 8pt">Сумма платежа </SPAN><SPAN 
+      class=border><I>%SUM% рублей</I></SPAN> </DIV>
+      <BR>
+      <DIV style="FONT-SIZE: 8pt">Подпись<BR>плательщика</DIV></TD></TR></TBODY></TABLE></DIV>
+";s:4:"nak3";s:22933:"<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>menelay</o:LastAuthor>
+  <o:Created>2006-03-09T22:00:41Z</o:Created>
+  <o:LastSaved>2006-03-17T18:26:10Z</o:LastSaved>
+  <o:Version>10.4219</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///\\"/>
+  <o:Colors>
+   <o:Color>
+    <o:Index>10</o:Index>
+    <o:RGB>#808000</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>11</o:Index>
+    <o:RGB>#000080</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>14</o:Index>
+    <o:RGB>#808080</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>15</o:Index>
+    <o:RGB>#C0C0C0</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>16</o:Index>
+    <o:RGB>#8080FF</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>17</o:Index>
+    <o:RGB>#802060</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>18</o:Index>
+    <o:RGB>#FFFFC0</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>19</o:Index>
+    <o:RGB>#A0E0E0</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>20</o:Index>
+    <o:RGB>#600080</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>22</o:Index>
+    <o:RGB>#0080C0</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>23</o:Index>
+    <o:RGB>#C0C0FF</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>24</o:Index>
+    <o:RGB>#00CFFF</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>25</o:Index>
+    <o:RGB>#69FFFF</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>26</o:Index>
+    <o:RGB>#E0FFE0</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>27</o:Index>
+    <o:RGB>#DD9CB3</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>28</o:Index>
+    <o:RGB>#B38FEE</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>29</o:Index>
+    <o:RGB>#2A6FF9</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>30</o:Index>
+    <o:RGB>#3FB8CD</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>31</o:Index>
+    <o:RGB>#488436</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>32</o:Index>
+    <o:RGB>#958C41</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>33</o:Index>
+    <o:RGB>#8E5E42</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>34</o:Index>
+    <o:RGB>#A0627A</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>35</o:Index>
+    <o:RGB>#624FAC</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>36</o:Index>
+    <o:RGB>#1D2FBE</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>37</o:Index>
+    <o:RGB>#286676</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>38</o:Index>
+    <o:RGB>#004500</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>39</o:Index>
+    <o:RGB>#453E01</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>40</o:Index>
+    <o:RGB>#6A2813</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>41</o:Index>
+    <o:RGB>#85396A</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>42</o:Index>
+    <o:RGB>#4A3285</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>43</o:Index>
+    <o:RGB>#C0DCC0</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>44</o:Index>
+    <o:RGB>#A6CAF0</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>45</o:Index>
+    <o:RGB>#800000</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>46</o:Index>
+    <o:RGB>#008000</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>47</o:Index>
+    <o:RGB>#000080</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>48</o:Index>
+    <o:RGB>#808000</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>49</o:Index>
+    <o:RGB>#800080</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>50</o:Index>
+    <o:RGB>#008080</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>51</o:Index>
+    <o:RGB>#808080</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>52</o:Index>
+    <o:RGB>#FFFBF0</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>53</o:Index>
+    <o:RGB>#A0A0A4</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>54</o:Index>
+    <o:RGB>#313900</o:RGB>
+   </o:Color>
+   <o:Color>
+    <o:Index>55</o:Index>
+    <o:RGB>#D9853E</o:RGB>
+   </o:Color>
+  </o:Colors>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:" ";}
+@page
+	{margin:.98in .79in .98in .79in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:204;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Обычный;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:204;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl19
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-weight:700;
+	text-decoration:underline;
+	text-underline-style:single;}
+.xl20
+	{mso-style-parent:style0;
+	font-size:10.0pt;}
+.xl21
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-weight:700;}
+.xl22
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-weight:700;
+	text-align:center-across;
+	vertical-align:middle;}
+.xl23
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center-across;}
+.xl24
+	{mso-style-parent:style0;
+	text-align:center-across;}
+.xl25
+	{mso-style-parent:style0;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl26
+	{mso-style-parent:style0;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;}
+.xl27
+	{mso-style-parent:style0;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;}
+.xl28
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl29
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;}
+.xl30
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;}
+.xl31
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl32
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl33
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;}
+.xl34
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl35
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;}
+.xl36
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;}
+.xl37
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-weight:700;
+	text-align:center-across;}
+.xl38
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl39
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl40
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl41
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	mso-number-format:0;
+	text-align:right;
+	vertical-align:top;
+	border:.5pt solid windowtext;}
+.xl42
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl43
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	mso-number-format:0;
+	text-align:right;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl44
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	mso-number-format:Fixed;
+	text-align:right;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl45
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	mso-number-format:Fixed;
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl46
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;
+	vertical-align:middle;}
+.xl47
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:right;
+	vertical-align:middle;}
+.xl48
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-weight:700;
+	text-align:right;
+	vertical-align:middle;}
+.xl49
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-weight:700;
+	text-align:right;
+	vertical-align:middle;
+	border:.5pt solid windowtext;}
+.xl50
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:right;}
+.xl51
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-weight:700;
+	text-align:right;}
+.xl52
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl53
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl54
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	mso-number-format:0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl55
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	mso-number-format:0;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;}
+.xl56
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	mso-number-format:0;
+	text-align:left;
+	vertical-align:top;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl57
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	mso-number-format:0;
+	text-align:left;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl58
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;
+	vertical-align:top;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl59
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;
+	vertical-align:top;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl60
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl61
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-weight:700;
+	text-align:left;
+	vertical-align:top;
+	white-space:normal;}
+.xl62
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl63
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl64
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl65
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:left;
+	white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet1</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>225</x:DefaultRowHeight>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:RangeSelection>$A:$A</x:RangeSelection>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:HideWorkbookTabs/>
+  <x:WindowHeight>4755</x:WindowHeight>
+  <x:WindowWidth>9300</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>0</x:WindowTopY>
+  <x:TabRatio>0</x:TabRatio>
+  <x:RefModeR1C1/>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink="#B38FEE">
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=694 style='border-collapse:
+ collapse;table-layout:fixed;width:523pt'>
+ <col width=26 style='mso-width-source:userset;mso-width-alt:1109;width:20pt'>
+ <col width=166 style='mso-width-source:userset;mso-width-alt:7082;width:125pt'>
+ <col width=106 style='mso-width-source:userset;mso-width-alt:4522;width:80pt'>
+ <col width=57 style='mso-width-source:userset;mso-width-alt:2432;width:43pt'>
+ <col width=69 style='mso-width-source:userset;mso-width-alt:2944;width:52pt'>
+ <col width=104 span=2 style='mso-width-source:userset;mso-width-alt:4437;
+ width:78pt'>
+ <col width=62 span=249 style='mso-width-source:userset;mso-width-alt:2645;
+ width:47pt'>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl19 colspan=3 width=298 style='height:12.75pt;
+  mso-ignore:colspan;width:225pt'>ООО "Музбазар"</td>
+  <td class=xl20 width=57 style='width:43pt'></td>
+  <td class=xl20 width=69 style='width:52pt'></td>
+  <td class=xl20 width=104 style='width:78pt'></td>
+  <td class=xl20 width=104 style='width:78pt'></td>
+  <td width=62 style='width:47pt'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 colspan=2 class=xl20 style='height:12.75pt;mso-ignore:colspan'></td>
+  <td></td>
+  <td colspan=4 class=xl20 style='mso-ignore:colspan'></td>
+  <td></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl21 colspan=8 style='height:12.75pt;mso-ignore:colspan'>Адрес:
+  115093 г. Москва, ул. Большая Серпуховская, д. 44, офис 9 тел.: (495)5897602</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 colspan=2 class=xl20 style='height:12.75pt;mso-ignore:colspan'></td>
+  <td></td>
+  <td colspan=4 class=xl20 style='mso-ignore:colspan'></td>
+  <td></td>
+ </tr>
+ <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 colspan=7 class=xl22 align=center style='height:15.75pt;
+  mso-ignore:colspan'>Образец заполнения платежного поручения</td>
+  <td></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl52 colspan=2 style='height:12.75pt;mso-ignore:colspan;
+  border-right:.5pt solid black'>ИНН 7705799280</td>
+  <td class=xl52 style='border-left:none'>КПП 770501001</td>
+  <td class=xl53> </td>
+  <td class=xl25 style='border-left:none'> </td>
+  <td class=xl26> </td>
+  <td class=xl27> </td>
+  <td></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 colspan=2 style='height:12.75pt;mso-ignore:colspan'>Получатель</td>
+  <td class=xl26 style='border-top:none'> </td>
+  <td class=xl30 style='border-top:none'> </td>
+  <td class=xl31> </td>
+  <td class=xl32 style='border-left:none'> </td>
+  <td class=xl33> </td>
+  <td></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td colspan=4 height=17 class=xl58 width=355 style='border-right:.5pt solid black;
+  height:12.75pt;width:268pt'>ООО "Музбазар"</td>
+  <td class=xl34 style='border-left:none'>Сч. №</td>
+  <td colspan=2 class=xl56 style='border-right:.5pt solid black;border-left:
+  none' >40702810300520000798</td>
+  <td></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl32 style='height:12.75pt'>Банк<span style='display:none'>к
+  получателя</span></td>
+  <td class=xl29 style='border-top:none'> </td>
+  <td></td>
+  <td class=xl35></td>
+  <td class=xl36 style='border-top:none'>БИК</td>
+  <td class=xl54 style='border-top:none;border-left:none' x:num>044525787</td>
+  <td class=xl55 style='border-top:none'> </td>
+  <td></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td colspan=4 height=17 class=xl58 width=355 style='border-right:.5pt solid black;
+  height:12.75pt;width:268pt'>ОАО "УРАЛСИБ" г. Москва</td>
+  <td class=xl34 style='border-left:none'>Сч. №</td>
+  <td colspan=2 class=xl56 style='border-right:.5pt solid black;border-left:
+  none'>30101810100000000787</td>
+  <td></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 colspan=8 style='height:11.25pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=24 style='height:18.0pt'>
+  <td height=24 colspan=7 class=xl37 align=center style='height:18.0pt;
+  mso-ignore:colspan'>СЧЕТ № %ID% от %DATE%</td>
+  <td></td>
+ </tr>
+ <tr height=24 style='height:18.0pt'>
+  <td height=24 style='height:18.0pt'><br><br><br> Счет действителен и товар зарезервирован в течении 3-х банковских дней </td>
+  <td ></td>
+  <td></td>
+  <td colspan=4 class=xl24 style='mso-ignore:colspan'></td>
+  <td></td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 colspan=8 style='height:11.25pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl20 colspan=3 style='height:12.75pt;mso-ignore:colspan'>Плательщик:<span
+  style='mso-spacerun:yes'>        </span>%NAME%</td>
+  <td colspan=4 class=xl20 style='mso-ignore:colspan'></td>
+  <td></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl20 colspan=2 style='height:12.75pt;mso-ignore:colspan'>Грузополучатель:
+  %NAME%</td>
+  <td></td>
+  <td colspan=4 class=xl20 style='mso-ignore:colspan'></td>
+  <td></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 colspan=2 class=xl20 style='height:12.75pt;mso-ignore:colspan'></td>
+  <td></td>
+  <td colspan=4 class=xl20 style='mso-ignore:colspan'></td>
+  <td></td>
+ </tr>
+</table>
+
+
+<TABLE id="Table1" style=" border-collapse: collapse;" cellSpacing="0" cellPadding="0" width=694 border="1">
+				<TR>
+					<TD style="WIDTH: 34px">№</TD>
+					<TD >Товар</TD>
+					<TD style="WIDTH: 52px">Кол-во</TD>
+					<TD style="WIDTH: 30px">Ед.</TD>
+					<TD>Цена</TD>
+					<TD>Сумма</TD>
+				</TR>
+					<!--%ROW%-->
+<tr>					<TD colspan="4" align="right"></td><td>Итого</TD>
+					<TD>%SUM%</TD>
+	</tr>
+<tr>					<TD colspan="4" align="right"></td><td>Включая НДС</TD>
+					<TD>%18%</TD>
+	</tr>
+
+</TABLE>
+<table x:str border=0 cellpadding=0 cellspacing=0 width=694 style='border-collapse:
+ collapse;table-layout:fixed;width:513pt'>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 colspan=2 class=xl20 style='height:12.75pt;mso-ignore:colspan'></td>
+  <td></td>
+  <td colspan=4 class=xl20 style='mso-ignore:colspan'></td>
+  <td></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td colspan=7 height=17 class=xl65 width=632 style='height:12.75pt;
+  width:476pt'>Всего наименований %COUNT%, на сумму %SUM%</td>
+  <td></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td colspan=7 height=17 class=xl61 width=632 style='height:12.75pt;
+  width:476pt'>%WRITE% копеек</td>
+  <td></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 colspan=2 class=xl20 style='height:12.75pt;mso-ignore:colspan'></td>
+  <td></td>
+  <td colspan=4 class=xl20 style='mso-ignore:colspan'></td>
+  <td></td>
+ </tr>
+ <tr height=33 style='mso-height-source:userset;height:24.75pt'>
+  <td height=33 class=xl20 colspan=6 style='height:24.75pt;mso-ignore:colspan'><br>
+<img src="http://ww.muzbazar.ru/images/podpis.gif" width="526"></td>
+  <td class=xl20></td>
+  <td></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 colspan=2 class=xl20 style='height:12.75pt;mso-ignore:colspan'></td>
+  <td></td>
+  <td colspan=4 class=xl20 style='mso-ignore:colspan'></td>
+  <td></td>
+ </tr>
+ <tr height=30 style='mso-height-source:userset;height:22.5pt'>
+  <td height=30 class=xl20 colspan=5 style='height:22.5pt;mso-ignore:colspan'></td>
+  <td colspan=2 class=xl20 style='mso-ignore:colspan'></td>
+  <td></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=26 style='width:20pt'></td>
+  <td width=166 style='width:125pt'></td>
+  <td width=106 style='width:80pt'></td>
+  <td width=57 style='width:43pt'></td>
+  <td width=69 style='width:52pt'></td>
+  <td width=104 style='width:78pt'></td>
+  <td width=104 style='width:78pt'></td>
+  <td width=62 style='width:47pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+";s:4:"nak4";s:1032:"<img src="http://www.muzbazar.ru/images/muzbazarlogo.jpg" border="0" alt="Музыкальный магазин" align="left">
+
+<P>
+			<B><I><FONT size="4">Спецификация к заказу №%ID% от %DATE%</FONT></I></B></P>
+		<P><FONT face="Times New Roman"><STRONG>Поставщик</STRONG>: ООО Музбазар 	 	 	 	 	
+ 105064 Москва, Сусальный Нижн. пер., д.9 стр.6.</FONT></P>
+		<P><STRONG>Покупатель</STRONG>: %NAME% </P>
+		<P>
+<TABLE id="Table1" style="WIDTH: 599px; border-collapse: collapse;" cellSpacing="0" cellPadding="0" width="599" border="1">
+				<TR>
+					<TD style="WIDTH: 34px">№</TD>
+					<TD style="WIDTH: 328px">Товар</TD>
+					<TD style="WIDTH: 52px">Кол-во</TD>
+					<TD style="WIDTH: 30px">Ед.</TD>
+					<TD>Цена</TD>
+					<TD>Сумма</TD>
+				</TR>
+					<!--%ROW%-->
+</TABLE>
+		</P>
+		<P>Всего наименований : <STRONG>%COUNT%</STRONG> на сумму <STRONG>%SUM%</STRONG> рублей 
+</div>";s:8:"navigate";a:2:{s:7:"element";a:3:{s:4:"main";s:51:"<li><a href="%link%.html" title="%text%">%text%</a>";s:3:"sub";s:51:"<li><a href="%link%.html" title="%text%">%text%</a>";s:6:"active";s:81:"<li><b><a href="%link%.html" style="color:#aa0000;" title="%text%">%text%</a></b>";}s:5:"outer";a:2:{s:4:"main";s:326:"<table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td height="18" bgcolor="#ba0804"><span class="subjs">Магазин документального кино</span></td>
+        </tr>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+<ul class=menu>
+%main%
+</ul>
+";s:3:"sub";s:30:"<ul class=menu>
+%main%
+</ul>";}}s:3:"hot";a:2:{s:4:"main";s:9:" %main%  ";s:3:"cat";s:185:"<a href="%viewaddr%" class="news_subj">
+ %title% <br>
+<img alt="фильм %title%, режиссер  %firm% " src="%imageaddr%" border="0"></a><br>режиссер  %firm%
+ <br><br>";}}s:4:"cart";a:1:{s:3:"nak";s:6:"фыв";}s:5:"zakaz";a:1:{s:2:"kv";s:4318:"<STYLE type=text/css>.border {
+	MARGIN-BOTTOM: -0.2em; PADDING-BOTTOM: 0px; BORDER-BOTTOM: black 1px solid
+}
+</STYLE>
+
+<DIV align=center>
+<TABLE 
+style="BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; BORDER-LEFT: black 1px solid; ; WIDTH: expression(document.body.clientWidth < 750 ? '750px' : '100%' ); BORDER-BOTTOM: black 1px solid; max-width: 750px" 
+cellSpacing=5 cellPadding=0 border=0>
+  <TBODY>
+  <TR>
+    <TD style="BORDER-RIGHT: black 1px solid; FONT-SIZE: 11pt" vAlign=top  width=170>
+      <DIV>Извещение</DIV>
+      <DIV style="MARGIN-TOP: 10em">Кассир</DIV></TD>
+    <TD style="FONT-SIZE: 10pt" width=580>
+      <DIV style="FONT-SIZE: 6pt; FLOAT: right">Форма №ПД-4</DIV>
+      <DIV class=border><I>ЗАО "Лаборатория Массмедиа" ИНН/КПП 7735121117/773501001</I></DIV>
+      <DIV style="FONT-SIZE: 8pt; PADDING-TOP: 0px" align=center>получатель платежа</DIV>
+      <DIV style="FLOAT: left; MARGIN-RIGHT: 20pt">
+      <DIV class=border><I>Донское ОСБ №7813 Сбербанка России</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>наименование банка</DIV></DIV>
+      <DIV style="FLOAT: right">
+      <DIV class=border><I>40702810138110105942</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>расчетный счет</DIV></DIV><BR clear=all>
+      <DIV class=border style="FONT-SIZE: 8pt"><I>К/с №30101810100000000774 в  в ОАО АКБ "АВТОБАНК НИКОЙЛ" БИК  044525774</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>другие банковские реквизиты</DIV>
+      <DIV class=border><I>%NAME%</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>Фамилия И.О. плательщика</DIV>
+      <DIV class=border><I>Оплата счета № Б-194180-1</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>наименование платежа</DIV>
+      <DIV class=border style="FLOAT: right; MARGIN-LEFT: 40pt"><I>%DATE%</I></DIV>
+      <DIV><SPAN style="FONT-SIZE: 8pt">Сумма платежа </SPAN><SPAN class=border><I>%PRICE%</I></SPAN> </DIV>
+      <BR>
+      <DIV style="FONT-SIZE: 8pt">Подпись<BR>плательщика</DIV></TD></TR>
+  <TR>
+    <TD colSpan=2>
+      <HR style="COLOR: black" SIZE=1>
+    </TD></TR>
+  <TR>
+    <TD style="BORDER-RIGHT: black 1px solid; FONT-SIZE: 11pt" vAlign=top 
+    width=170>
+      <DIV>Квитанция</DIV>
+      <DIV style="MARGIN-TOP: 10em">Кассир</DIV></TD>
+    <TD style="FONT-SIZE: 10pt" width=580>
+      <DIV style="FONT-SIZE: 6pt; FLOAT: right">Форма №ПД-4</DIV>
+	  <DIV class=border><I>ЗАО "Лаборатория Массмедиа" ИНН/КПП 7735121117/773501001</I></DIV>      
+      <DIV style="FONT-SIZE: 8pt; PADDING-TOP: 0px" align=center>получатель платежа</DIV>
+      <DIV style="FLOAT: left; MARGIN-RIGHT: 20pt">
+      <DIV class=border><I>Донское ОСБ №7813 Сбербанка России</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>наименование банка</DIV></DIV>
+      <DIV style="FLOAT: right">
+      <DIV class=border><I>40702810138110105942</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>расчетный счет</DIV></DIV><BR clear=all>
+      <DIV class=border style="FONT-SIZE: 8pt"><I>К/с №30101810100000000774 в  в ОАО АКБ "АВТОБАНК НИКОЙЛ" БИК  044525774</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>другие банковские реквизиты</DIV>
+      <DIV class=border><I>%NAME%</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>Фамилия И.О. плательщика</DIV>
+      <DIV class=border><I>Оплата счета № Б-194180-1</I></DIV>
+      <DIV style="FONT-SIZE: 8pt" align=center>наименование платежа</DIV>
+      <DIV class=border style="FLOAT: right; MARGIN-LEFT: 40pt"><I>%DATE%</I></DIV>
+      <DIV><SPAN style="FONT-SIZE: 8pt">Сумма платежа </SPAN><SPAN 
+      class=border><I>%PRICE%</I></SPAN> </DIV>
+      <BR>
+      <DIV style="FONT-SIZE: 8pt">Подпись<BR>плательщика</DIV></TD></TR></TBODY></TABLE></DIV>
+";}s:8:"register";a:19:{s:7:"profile";a:4:{s:4:"main";s:6:"%main%";s:4:"self";s:2526:"<script language="JavaScript" src="validator.js"></script>
+<h3>
+Ваша скидка на все товары - %discount% %</h3>
+<br><br>
+<form method=POST action="%action%" name = "profile" onsubmit="return v.exec()">
+<TABLE cellSpacing="0" cellPadding="2" width="300" border="0">
+<TR>
+
+
+<h3>Личные данные</h3>
+<TD>ФИО</TD>
+<TD id=t_fio><input type="text"  name="NAME" value= "%NAME%"></TD>
+</TR>
+<TD>Контактный телефон</TD>
+<TD id=t_tel><input type="text" name="TEL" value= "%TEL%"></TD>
+</TR>
+<TD>Адрес</TD>
+<TD id=t_addr><tarea name="addr">%ADDR%</tarea></TD>
+</TR>
+</TABLE>
+<br>
+<input type="submit" value="Принять изменения">
+</form>
+
+<h3>Сменить пароль.</h3>
+<form method=POST action="%action%" name = "pass" onsubmit="return v2.exec()">
+<TABLE cellSpacing="0" cellPadding="2" width="300" border="0">
+<TR>
+<TD>Пароль</TD>
+<TD id=t_pass><input type="password" name="PASS1"></TD>
+</TR>
+<TD>Ещё раз</TD>
+<TD id=t_pass><input type="password" name="PASS2"></TD>
+</TR>
+</TABLE>
+<br>
+<input type="submit" value="Принять изменения">
+</form>
+
+
+<script>
+// form fields description structure
+var a_fields = {
+  'NAME':{'l':'Контктиное лицо','r':true,'f':'any','t':'t_fio'},
+  'TEL':{'l':'Контактный телефон','r':true,'f':'phone','t':'t_tel'}
+};
+
+var o_config = {
+  'to_disable' : ['Submit', 'Reset'],
+  'alert' : 1
+};
+
+// validator constructor call
+var v = new validator('profile', a_fields, o_config);
+
+var a_fields2 = { 
+  'PASS1':{'l':'Пароль','r':true,'f':'any','t':'t_pass'},
+  'PASS2':{'l':'Пароль','r':true,'f':'any','t':'t_pass'}  
+};
+
+var o_config2 = {
+  'to_disable' : ['Submit', 'Reset'],
+  'alert' : 1
+};
+
+// validator constructor call
+var v2 = new validator('pass', a_fields2, o_config2);
+
+</script>
+
+<hr>
+<ul>
+%usergoods%
+</ul>
+</hr>
+<hr>
+<h3>Написать в техподдержку</h3>
+<form action="%actionsend%" method=post>
+<table  border="1" >
+<tr>
+<td><tarea name="text" cols=40 rows=5></tarea></td>
+<td>
+  <input name="type" id="a1" value="zakaz" type="radio"> <label for="a1">Проблема с заказом</label><br>
+  <input name="type" id="a2" value="site" type="radio"> <label for="a2">Проблема На сайте</label><br>
+</td>
+</tr>
+</table>
+<input type="submit">
+</form>
+История сообщений с администратором<br>
+%MESSAGES%";s:7:"message";s:38:"<li>%date% <b> %name%</b> %text% </li>";s:16:"usergoodselement";s:0:"";}s:6:"manage";a:2:{s:4:"main";s:84:"<a href="%link%">Профиль</a> <a href="%link2%">История</a> 
+
+%image%";s:5:"image";s:257:"<hr>
+<form method=post enctype="multipart/form-data" action="http://www.magazindoc.ru/register/profile/manage_upload_image">
+<img src="%image%">
+<h3>Загрузить изображение</h3>
+<input type=file name=file>
+<input type=submit>
+</form>";}s:5:"zakaz";a:3:{s:4:"main";s:242:"<hr>
+<table width=100%>
+<tr>
+<td>Общая сумма выполненных заказов: <b>%total%</b> руб</td><td align=right>сумма на счету - <b>%money%</b> руб</td>
+</tr>
+</table>
+<hr>
+<ul>
+
+%main%
+</ul>
+";s:5:"zakaz";s:361:"<li><b><fornt size="+2">%id%</font></b> заказ от (%date%):<br>
+Статус заказа: <b>%status%</b> <br><br>
+<table border="1" width="90%" CELLSPACING="0" CELLpadding="5" ><tr><td>Название</td>
+<td>Цена</td>
+<td>Кол-во</td>
+<td>Сумма</td>
+</tr>
+%list%</table>Сумма заказа: %summ% руб. </li> <hr><br><br>
+";s:7:"element";s:132:"<tr ><td >%firmname% %cattitle% %title%</td>
+<td> %price% руб. </td>
+<td>%count% </td>
+<td> %summrur% руб.</td>
+ </tr>
+
+";}s:4:"date";s:5:"d-M-Y";s:15:"error_name_pass";s:223:"<font=4>
+Неверное имя пользователя или пароль!<br>
+<a href="register/register">Зарегистрируйтесь</a> или повторно войдите в систему<br>
+</font=4>";s:10:"error_name";s:58:"Такое имя или EMAIL уже существуют";s:7:"captcha";s:34:"Неверно введён код";s:5:"enter";s:968:"<table border="0" cellpadding="0" cellspacing="0" width="100%">
+       <tr>
+            <td height="18">Личный кабинет</td>
+        </tr></table>
+
+<form method=POST action="%action%">
+<table border="0" cellspacing="3" cellpadding="0">
+  <tr>
+	<td align="right"><b style="font-size:10px;">E-Mail </b> 
+	</td>
+	<td align="left"> <input type=text name="LOGIN" class="mainoption" value="%login%">
+	</td>
+  </tr>
+<tr>
+	<td align="right"><b style="font-size:10px;">Пароль</b>
+	</td>
+	<td align="left"><input type=password name="PASS" class="mainoption" value="%pass%">  
+	</td>
+
+</tr>
+<tr>
+	<td align="right"><input type=submit value="Ok">
+	</td><td></td>
+</tr>
+</table></form>
+<a href="register/register">Регистрация</a><br>
+
+<font color=red><small>%error%</small></font>
+<a href="register/restore">Напомнить пароль</a><br>
+<a href="/Pomosh.html" title="Помощь"><b>Помощь</b></a><br><br>";s:7:"enterok";s:710:"<table border="0" cellpadding="0" cellspacing="0" width="100%">
+       <tr>
+            <td bgcolor="#ba0804" height="18"><span class="subjs">Личный кабинет</span></td>
+        </tr></table><br>
+Вы авторизованы как <b> %login%</b><br><br>
+<a href="/register/profile/history">Мои заказы</a><br>
+<a href="/register/profile/profile">Мой профиль</a><br>
+<a href="/register/profile/messages">Мои Сообщения</a><br>
+<a href="/resume/edit">Моё Резюме</a><br>
+<a href="/register/logout">Выйти из кабинета</a><br>
+<a href="http://www.magazindoc.ru/Kak_kypit_kino.html" title="Помощь"><b>Помощь</b></a><br><br>
+
+";s:8:"register";s:2534:"<b style="color:ff1111;">%error%</b><br><br>
+<script language="JavaScript" src="validator.js"></script>
+
+Для регистрации нового пользователя, введите Ваши данные.<br><br>
+<form method=POST action="%action%" name = "registration" onsubmit="return v.exec()">
+<TABLE cellSpacing="0" cellPadding="2" width="300" border="0">
+<TR>
+<TD><b style="font-size:10px;">Ваше фамилия и имя</b></TD>
+<TD><input type="text" class="mainoption" id=t_fio name="NAME"></TD>
+</TR>
+<TR>
+<TD><b style="font-size:10px;">E-Mail</b></TD>
+<TD><input type="text" class="mainoption" id=t_mail name="EMAIL"></TD>
+</TR>
+</TABLE>
+<br>
+Введите код с картинки:
+<input type="text" name="code" /><br />
+<img src="securimage_show.php?sid=%sid%"><br />
+
+
+
+<input type="submit" value="Зарегистрироваться">
+</form>
+<i>Пароль будет Выслан Вам по почте, вы его сможете изменить в личном кабинете</i><br>
+
+<script>
+// form fields description structure
+var a_fields = {
+	'NAME':{'l':'Контктиное лицо','r':true,'f':'any','t':'t_fio'},
+	'EMAIL':{'l':'E-mail','r':true,'f':'email','t':'t_mail'}
+};
+
+var o_config = {
+	'to_disable' : ['Submit', 'Reset'],
+	'alert' : 1
+};
+
+var v = new validator('registration', a_fields, o_config);
+</script>
+
+<br><br>
+Пожалуйста вводите корректную информацию. Это ускорит и упростит доставку товаров и начисление бонусов.
+<br><br>
+После регистрации не забывайте заполнить в личном профиле информацию об адресе и телефоне.
+<br><br>
+<b>Зачем нужна регистрация?</b><br>
+<li>Регистрация может пригодиться при заказе товаров и ведении истории заказов
+<li>Вы сможете общаться с зарегистрировавшимися пользователями
+<li>При получении и автоматическом расчете накопительной скидки 
+<li>При размещении комментариев к фильмам
+<li>При размещении авторских описаний товаров и начислении бонусов, на которые Вы можете купить понравившийся фильм.
+
+";s:2:"ok";s:517:"Вы зарегистрировались на сайте http://www.magazindoc.ru
+Ваш логин: %mail%<br>
+Ваш пароль: %pass%<br>
+<br>
+Для входа в систему введете их на странице - http://www.magazindoc.ru<br>
+<br>
+
+Что бы вспомнить забытый пароль нажмите по ссылке "напомнить пароль"  на этой странице http://www.magazindoc.ru и введите адрес электронной почты";s:5:"email";s:19:"admin@magazindoc.ru";s:4:"name";s:13:"magazindoc.ru";s:4:"addr";s:17:"www.magazindoc.ru";s:10:"newmessage";s:29:"Новое сообщение";s:16:"newmessageresume";s:45:"Новое сообщение в резюме";s:15:"newmessageadmin";s:61:"Новое сообщение от администрации";s:4:"fail";s:155:"<h1>Вы не зарегистрированы в системе.</h1>
+Для просмотра информации зарегистрируйтесь. ";s:3:"ban";s:121:"действия пользователя заблокированы, обратитесь в администрацию ";}s:3:"css";s:886:"body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+p 
+{
+font-family: arial;
+font-size: 8pt;
+font-weight: normal;
+text-align: left;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-top: 0px;
+color: #6f6f6f;
+}
+
+img
+{
+border: none;
+}
+
+body
+{
+margin: 0px;
+padding: 0px;
+background-color: #FFFFFF;
+background-repeat: repeat-x;
+background-position: left bottom;
+}
+
+
+a:link {color: #6f6f6f; text-decoration: none;}
+a:visited {color: #6f6f6f; text-decoration: underline;}
+a:hover {color: red; text-decoration: underline;}
+a:active {color: red; text-decoration: underline;}
+
+a.menu:link {color: #363fa4; text-decoration: none;}
+a.menu:visited {color: #363fa4; text-decoration: underline;}
+a.menu:hover {color: black; text-decoration: underline;}
+a.menu:active {color: black; text-decoration: none;}
+";}

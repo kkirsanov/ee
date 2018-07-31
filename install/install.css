@@ -1,0 +1,43 @@
+h1 {
+	text-indent: -9000px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 40px;
+}
+
+button {
+	border: 1px solid #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 12px;
+	color: #666666;
+	background-image: url(images/razdel_11.gif);
+	background-repeat: repeat-x;
+	background-position: center;
+	text-align: center;
+	height: 25px;
+	width: 100%;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #666666;
+	background-color: #FFFFFF;
+}
+
+textarea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	height: 27px;
+	width: 80%;
+}
+
+input {
+	border: 1px solid #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}

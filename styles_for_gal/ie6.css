@@ -1,0 +1,12 @@
+input
+{
+  scrollbar-face-color: expression(runtimeStyle.scrollbarFaceColor = '#fff', className += ' input_'+type)
+}
+
+.main_menu img
+  {
+    width: expression(width);
+    filter: expression( (runtimeStyle.filter == '') ? runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+src+"', sizingMethod='image')" : '',
+              src = 'images/1x1.gif');
+  }
+

@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+	font: normal normal normal 11px/ 20px "Verdana Cyr", "Verdana",
+		"Arial Cyr", "Arial", "Helvetica Cyr", "Helvetica", sans-serif;
+	color: #333;
+	background: eee;
+}
+
+h1 {
+	display: inline;
+	margin: 0;
+	padding: 0;
+	font-size: 28px;
+	line-height: 28px;
+	font-weight: 900;
+	color: #ccc;
+}
+
+UL {
+	MARGIN-BOTTOM: 5px;
+	MARGIN-LEFT: 15px;
+	PADDING-LEFT: 5px;
+	LIST-STYLE: none;
+}

@@ -1,0 +1,12 @@
+/*MICS*/
+.clearFix {zoom:1;}
+
+/*LAYOUT*/
+  #body {zoom:1;}
+
+  #main_col_content,.activity,.catalog,.catalog ul,.catalog,.activity ul,.main_menu ul a,.front_gallery,.info_block,.news dl,.news {zoom:1;}
+  .activity li,.catalog ul li,.front_gallery li{display:inline}
+  #out_wrapper{overflow:visible}
+  .main_menu ul,.main_menu ul li{zoom:1;float:left;clear:both}
+  .main_menu ul a{float:left}
+  .front_gallery li {position:relative;zoom:1;display:inline}

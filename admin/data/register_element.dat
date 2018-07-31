@@ -1,0 +1,7 @@
+<tr ><td >%firmname% %cattitle% %title%</td>
+<td> %price% руб. </td>
+<td>%count% </td>
+<td> %summrur% руб.</td>
+ </tr>
+
+

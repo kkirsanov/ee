@@ -1,0 +1,8 @@
+<li><b><fornt size=\"+2\">%id%</font></b> заказ от (%date%):<br>
+Статус заказа: <b>%status%</b> <br><br>
+<table border=\"1\" width=\"90%\" CELLSPACING=\"0\" CELLpadding=\"5\" ><tr><td>Название</td>
+<td>Цена</td>
+<td>Кол-во</td>
+<td>Сумма</td>
+</tr>
+%list%</table>Сумма заказа: %summ% руб. </li> <hr><br><br>

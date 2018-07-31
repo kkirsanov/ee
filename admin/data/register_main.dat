@@ -1,0 +1,11 @@
+<hr>
+<table width=100%>
+<tr>
+<td>Общая сумма выполненных заказов: <b>%total%</b> руб</td><td align=right>сумма на счету - <b>%money%</b> руб</td>
+</tr>
+</table>
+<hr>
+<ul>
+
+%main%
+</ul>

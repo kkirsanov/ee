@@ -1,0 +1,21 @@
+AddDefaultCharset utf-8
+php_value max_input_vars 10000
+#AddDefaultCharset cp1251
+DirectoryIndex index.php
+RewriteEngine on
+
+#RewriteRule ^muzbazar.ru/ - [last]
+#RewriteCond %{HTTP_HOST} (www.)?muzbazar.ru [nocase]
+#RewriteCond (.*)muzbazar/$1 [last]
+
+RewriteCond %{HTTP_HOST} ^muzbazar.ru$ [NC] 
+RewriteRule ^(.*)$ http://www.muzbazar.ru/$1 [R=301,L]
+
+
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^/?admin/?(.*)$ ./admin/ [QSA,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^files\/([0-9]*)$ ./files/$1.dat [QSA,L]
+RewriteRule ^([a-zA-Z0-9\/_-]*)(\.html?)?$ index.php?path=$1 [QSA,L]
+
